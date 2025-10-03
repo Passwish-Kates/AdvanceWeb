@@ -18,4 +18,4 @@ A prepared SQL statement is used to securely fetch the record of the student bas
 On the frontend, the HTML displays a simple page with a header, navigation bar, and a login form styled through SiteStyle.css. If login fails, a warning message is shown. Logged-in users see their current status and a logout button. JavaScript validation (validate_login.js) ensures proper input handling before submission.
 
 ## Author
-- Passwish Kates
+- Passwish Ketsingnoi
